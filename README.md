@@ -1,4 +1,3 @@
-🌟 **Summary**:
 Passionate and detail-oriented Frontend Developer skilled in **React**, **Redux**, **TypeScript**, and **SCSS**. My expertise lies in crafting **high-performance** websites with a **user-centric approach**, consistently achieving **near-perfect Google PageSpeed scores**. With proficiency in **modern web technologies** and a **creative problem-solving mindset**, I am actively seeking new opportunities to contribute my skills to innovative projects.
 
 🚀 **Skills**:
@@ -15,6 +14,6 @@ Passionate and detail-oriented Frontend Developer skilled in **React**, **Redux*
 Actively seeking new opportunities as a Frontend Developer. Eager to contribute my skills and expertise to dynamic projects and collaborate with like-minded professionals. Open to remote positions and willing to relocate for the right opportunity.
 
 📚 **Certifications/Courses**:
-Itgid JavaScript 2.0 Certification
-FreeCodeCamp Certifications
-Frontend course at Mate Academy (Git, HTML, CSS, JavaScript, TypeScript, React, Web)
+- Itgid JavaScript 2.0 Certification
+- FreeCodeCamp Certifications
+- Frontend course at Mate Academy (Git, HTML, CSS, JavaScript, TypeScript, React, Web)
